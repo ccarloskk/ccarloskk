@@ -36,4 +36,4 @@
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-henrique-197347199/)  
-- 📧 carloshsc000@email.com
+- 📧 carloshsc000@gmail.com
