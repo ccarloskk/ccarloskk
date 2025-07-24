@@ -6,7 +6,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Atualmente faço faculdade na PUCPR  
-- 🧠 Estudando Java, MySQL, POO e estrutura de dados  
+- 🧠 Estudando Java, MySQL, Spring Boot e estrutura de dados  
 - 📍 Moro em Curitiba - PR  
 
 ---
