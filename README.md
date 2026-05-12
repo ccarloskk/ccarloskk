@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### 🛠️ Tecnologias que utilizo: 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -25,15 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccarloskk&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarloskk&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
 
